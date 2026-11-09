@@ -114,7 +114,7 @@ def resolve(words):
                 state = 'vl' if b in VOICELESS else 'vd'
         # progressive devoicing of w / rz after voiceless
         for a,bx in zip(cl, cl[1:]):
-            if bx['f'] in ('w','rz') and base(a['p']) in VOICELESS:
+            if bx['f'] in ('w','rz') and base(a['p']) in VOICELESS and a['w']==bx['w']:
                 b = base(bx['p']); pal = 'ʲ' if bx['p'].endswith('ʲ') else ''
                 if b in DEV: bx['p'] = DEV[b]+pal
         i = j+1
