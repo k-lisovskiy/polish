@@ -200,7 +200,7 @@ Do it without looking up:
 2. Kup butelkę ______ (sok).
 3. Translate: **У меня нет времени.**
 
-Then import `decks/repair-01-genitive.csv` into Anki (11 cards).
+Then import `decks/repair-01-genitive.csv` into Anki (40 cards for the whole R1 unit, with the Russian side first). Anki introduces them at your daily new-card limit.
 
 **Report back:** your score on Set A (out of 8), the exit check (out of 3), and anything that felt hard. That goes into `progress/log.md` and shapes lesson 2.
 
