@@ -11,7 +11,7 @@ Read `intent.md` first. It holds the goal, the learner and the current state.
 | `lessons/<level>/<unit>-<slug>/` | Lesson materials, e.g. `lessons/a1/05-genitive/lesson-1.md` (create as needed) |
 | `progress/` | Placement results, retest results, a session log (`progress/log.md`) |
 | `tools/` | Interactive HTML tools (placement test, drills). Self-contained, no build step. |
-| `decks/` | Anki decks, one file per unit, 30–40 rows: `Russian|Polish|Phonetic`, pipe-separated with `#separator:Pipe` and `#columns:` header lines. Phonetic = syllables split by hyphens, stressed syllable in capitals (lo-DÓW-ka). Masculine nouns show the genitive (chleb, -a); verbs show the forms the unit drills. |
+| `decks/` | Anki decks, one file per unit, 30–40 rows: `Russian|Polish|IPA`, pipe-separated with `#separator:Pipe` and `#columns:` header lines. IPA in square brackets, Warsaw standard, stress marked with ˈ, with voicing assimilation and final devoicing shown ([lɔˈdufka], [f ˈpɔlst͡sɛ]). Masculine nouns show the genitive (chleb, -a); verbs show the forms the unit drills. |
 
 ## Writing lesson materials
 

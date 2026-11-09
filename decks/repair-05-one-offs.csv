@@ -1,40 +1,40 @@
 #separator:Pipe
-#columns:Russian|Polish|Phonetic
-знать (что-то)|wiedzieć — wiem, wiesz, wiedzą|WIE-dzieć — WIEM, WIESZ, WIE-dzą
-знать (кого-то, что-то)|znać — znam, znasz, znają|ZNAĆ — ZNAM, ZNASZ, ZNA-ją
-есть (кушать)|jeść — jem, jesz, jedzą|JEŚĆ — JEM, JESZ, JE-dzą
-хотеть|chcieć — chcę, chcesz, chcą|CHCIEĆ — CHCĘ, CHCESZ, CHCĄ
-мочь|móc — mogę, możesz, mogą|MÓC — MO-gę, MO-żesz, MO-gą
-дать|dać — dam, dasz, dadzą|DAĆ — DAM, DASZ, DA-dzą
-брать|brać — biorę, bierzesz, biorą|BRAĆ — BIO-rę, BIE-rzesz, BIO-rą
-идти|iść — idę, idziesz, idą|IŚĆ — I-dę, I-dziesz, I-dą
-ехать|jechać — jadę, jedziesz, jadą|JE-chać — JA-dę, JE-dziesz, JA-dą
-пить|pić — piję, pijesz, piją|PIĆ — PI-ję, PI-jesz, PI-ją
-писать|pisać — piszę, piszesz, piszą|PI-sać — PI-szę, PI-szesz, PI-szą
-мыть|myć — myję, myjesz, myją|MYĆ — MY-ję, MY-jesz, MY-ją
-спать|spać — śpię, śpisz, śpią|SPAĆ — ŚPIĘ, ŚPISZ, ŚPIĄ
-стоять|stać — stoję, stoisz, stoją|STAĆ — STO-ję, STO-isz, STO-ją
-уметь|umieć — umiem, umiesz, umieją|U-mieć — U-miem, U-miesz, u-MIE-ją
-понимать|rozumieć — rozumiem, rozumiesz, rozumieją|ro-ZU-mieć — ro-ZU-miem, ro-ZU-miesz, ro-zu-MIE-ją
-нехороший|niedobry|nie-DO-bry
-некрасивый|nieładny|nie-ŁAD-ny
-недорогой|niedrogi|nie-DRO-gi
-неправда|nieprawda|nie-PRAW-da
-не знаю|nie wiem|nie WIEM
-не очень|nie bardzo|nie BAR-dzo
-лучший, лучше|lepszy|LEP-szy
-худший, хуже|gorszy|GOR-szy
-больше (размером)|większy|WIĘK-szy
-меньше (размером)|mniejszy|MNIEJ-szy
-старше|starszy|STAR-szy
-моложе|młodszy|MŁOD-szy
-дешевле|tańszy|TAŃ-szy
-дороже|droższy|DROŻ-szy
-лучше (как?)|lepiej|LE-piej
-хуже (как?)|gorzej|GO-rzej
-чем|niż / od (kogo? czego?)|NIŻ / OD
-чем я, от меня|ode mnie|o-de MNIE
-полтора (м. и ср. р.)|półtora|pół-TO-ra
-полтора (ж. р.)|półtorej|pół-TO-rej
-полчаса|pół godziny|PÓŁ go-DZI-ny
-полтора часа|półtorej godziny|pół-TO-rej go-DZI-ny
+#columns:Russian|Polish|IPA
+знать (что-то)|wiedzieć — wiem, wiesz, wiedzą|[ˈvʲɛd͡ʑɛt͡ɕ] — [ˈvʲɛm], [ˈvʲɛʂ], [ˈvʲɛd͡zɔ̃]
+знать (кого-то, что-то)|znać — znam, znasz, znają|[ˈznat͡ɕ] — [ˈznam], [ˈznaʂ], [ˈznajɔ̃]
+есть (кушать)|jeść — jem, jesz, jedzą|[ˈjɛɕt͡ɕ] — [ˈjɛm], [ˈjɛʂ], [ˈjɛd͡zɔ̃]
+хотеть|chcieć — chcę, chcesz, chcą|[ˈxt͡ɕɛt͡ɕ] — [ˈxt͡sɛ], [ˈxt͡sɛʂ], [ˈxt͡sɔ̃]
+мочь|móc — mogę, możesz, mogą|[ˈmut͡s] — [ˈmɔɡɛ], [ˈmɔʐɛʂ], [ˈmɔɡɔ̃]
+дать|dać — dam, dasz, dadzą|[ˈdat͡ɕ] — [ˈdam], [ˈdaʂ], [ˈdad͡zɔ̃]
+брать|brać — biorę, bierzesz, biorą|[ˈbrat͡ɕ] — [ˈbʲɔrɛ], [ˈbʲɛʐɛʂ], [ˈbʲɔrɔ̃]
+идти|iść — idę, idziesz, idą|[ˈiɕt͡ɕ] — [ˈidɛ], [ˈid͡ʑɛʂ], [ˈidɔ̃]
+ехать|jechać — jadę, jedziesz, jadą|[ˈjɛxat͡ɕ] — [ˈjadɛ], [ˈjɛd͡ʑɛʂ], [ˈjadɔ̃]
+пить|pić — piję, pijesz, piją|[ˈpʲit͡ɕ] — [ˈpʲijɛ], [ˈpʲijɛʂ], [ˈpʲijɔ̃]
+писать|pisać — piszę, piszesz, piszą|[ˈpʲisat͡ɕ] — [ˈpʲiʂɛ], [ˈpʲiʂɛʂ], [ˈpʲiʂɔ̃]
+мыть|myć — myję, myjesz, myją|[ˈmɨt͡ɕ] — [ˈmɨjɛ], [ˈmɨjɛʂ], [ˈmɨjɔ̃]
+спать|spać — śpię, śpisz, śpią|[ˈspat͡ɕ] — [ˈɕpʲɛ], [ˈɕpʲiʂ], [ˈɕpʲɔ̃]
+стоять|stać — stoję, stoisz, stoją|[ˈstat͡ɕ] — [ˈstɔjɛ], [ˈstɔiʂ], [ˈstɔjɔ̃]
+уметь|umieć — umiem, umiesz, umieją|[ˈumʲɛt͡ɕ] — [ˈumʲɛm], [ˈumʲɛʂ], [uˈmʲɛjɔ̃]
+понимать|rozumieć — rozumiem, rozumiesz, rozumieją|[rɔˈzumʲɛt͡ɕ] — [rɔˈzumʲɛm], [rɔˈzumʲɛʂ], [rɔzuˈmʲɛjɔ̃]
+нехороший|niedobry|[ɲɛˈdɔbrɨ]
+некрасивый|nieładny|[ɲɛˈwadnɨ]
+недорогой|niedrogi|[ɲɛˈdrɔɡʲi]
+неправда|nieprawda|[ɲɛˈpravda]
+не знаю|nie wiem|[ɲɛ ˈvʲɛm]
+не очень|nie bardzo|[ɲɛ ˈbard͡zɔ]
+лучший, лучше|lepszy|[ˈlɛpʂɨ]
+худший, хуже|gorszy|[ˈɡɔrʂɨ]
+больше (размером)|większy|[ˈvʲɛŋkʂɨ]
+меньше (размером)|mniejszy|[ˈmɲɛjʂɨ]
+старше|starszy|[ˈstarʂɨ]
+моложе|młodszy|[ˈmwɔtʂɨ]
+дешевле|tańszy|[ˈtaɲʂɨ]
+дороже|droższy|[ˈdrɔʂʂɨ]
+лучше (как?)|lepiej|[ˈlɛpʲɛj]
+хуже (как?)|gorzej|[ˈɡɔʐɛj]
+чем|niż / od (kogo? czego?)|[ˈɲiʂ] / [ˈɔt]
+чем я, от меня|ode mnie|[ɔdɛ ˈmɲɛ]
+полтора (м. и ср. р.)|półtora|[puwˈtɔra]
+полтора (ж. р.)|półtorej|[puwˈtɔrɛj]
+полчаса|pół godziny|[ˈpuw ɡɔˈd͡ʑinɨ]
+полтора часа|półtorej godziny|[puwˈtɔrɛj ɡɔˈd͡ʑinɨ]

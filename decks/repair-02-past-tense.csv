@@ -1,39 +1,39 @@
 #separator:Pipe
-#columns:Russian|Polish|Phonetic
-быть|być — był, była, byli|BYĆ — BYŁ, BY-ła, BY-li
-иметь|mieć — miał, miała, mieli|MIEĆ — MIAŁ, MIA-ła, MIE-li
-идти|iść — szedł, szła, szli|IŚĆ — SZEDŁ, SZŁA, SZLI
-ехать|jechać — jechał, jechała, jechali|JE-chać — JE-chał, je-CHA-ła, je-CHA-li
-мочь|móc — mógł, mogła, mogli|MÓC — MÓGŁ, MO-gła, MO-gli
-есть (кушать)|jeść — jadł, jadła, jedli|JEŚĆ — JADŁ, JA-dła, JE-dli
-взять|wziąć — wziął, wzięła, wzięli|WZIĄĆ — WZIĄŁ, WZIĘ-ła, WZIĘ-li
-хотеть|chcieć — chciał, chciała, chcieli|CHCIEĆ — CHCIAŁ, CHCIA-ła, CHCIE-li
-видеть|widzieć — widział, widziała, widzieli|WI-dzieć — WI-dział, wi-DZIA-ła, wi-DZIE-li
-знать (что-то)|wiedzieć — wiedział, wiedziała, wiedzieli|WIE-dzieć — WIE-dział, wie-DZIA-ła, wie-DZIE-li
-сказать|powiedzieć — powiedział, powiedziała, powiedzieli|po-WIE-dzieć — po-WIE-dział, po-wie-DZIA-ła, po-wie-DZIE-li
-прийти|przyjść — przyszedł, przyszła, przyszli|PRZYJŚĆ — PRZY-szedł, PRZY-szła, PRZY-szli
-выйти, уйти|wyjść — wyszedł, wyszła, wyszli|WYJŚĆ — WY-szedł, WY-szła, WY-szli
-принести|przynieść — przyniósł, przyniosła, przynieśli|PRZY-nieść — PRZY-niósł, przy-NIO-sła, przy-NIE-śli
-начать|zacząć — zaczął, zaczęła, zaczęli|ZA-cząć — ZA-czął, za-CZĘ-ła, za-CZĘ-li
-закончить|skończyć — skończył, skończyła, skończyli|SKOŃ-czyć — SKOŃ-czył, skoń-CZY-ła, skoń-CZY-li
-спать|spać — spał, spała, spali|SPAĆ — SPAŁ, SPA-ła, SPA-li
-работать|pracować — pracował, pracowała, pracowali|pra-CO-wać — pra-CO-wał, pra-co-WA-ła, pra-co-WA-li
-жить (где-то)|mieszkać — mieszkał, mieszkała, mieszkali|MIESZ-kać — MIESZ-kał, miesz-KA-ła, miesz-KA-li
-учиться|uczyć się — uczył się, uczyła się, uczyli się|U-czyć się — U-czył się, u-CZY-ła się, u-CZY-li się
-купить|kupić — kupił, kupiła, kupili|KU-pić — KU-pił, ku-PI-ła, ku-PI-li
-сделать|zrobić — zrobił, zrobiła, zrobili|ZRO-bić — ZRO-bił, zro-BI-ła, zro-BI-li
-написать|napisać — napisał, napisała, napisali|na-PI-sać — na-PI-sał, na-pi-SA-ła, na-pi-SA-li
-прочитать|przeczytać — przeczytał, przeczytała, przeczytali|prze-CZY-tać — prze-CZY-tał, prze-czy-TA-ła, prze-czy-TA-li
-встретить|spotkać — spotkał, spotkała, spotkali|SPOT-kać — SPOT-kał, spot-KA-ła, spot-KA-li
-забыть|zapomnieć — zapomniał, zapomniała, zapomnieli|za-POM-nieć — za-POM-niał, za-pom-NIA-ła, za-pom-NIE-li
-понять|zrozumieć — zrozumiał, zrozumiała, zrozumieli|zro-ZU-mieć — zro-ZU-miał, zro-zu-MIA-ła, zro-zu-MIE-li
-умереть|umrzeć — umarł, umarła, umarli|UM-rzeć — U-marł, u-MAR-ła, u-MAR-li
-сесть|usiąść — usiadł, usiadła, usiedli|U-siąść — U-siadł, u-SIA-dła, u-SIE-dli
-вчера|wczoraj|WCZO-raj
-позавчера|przedwczoraj|przed-WCZO-raj
-на прошлой неделе|w zeszłym tygodniu|w ZESZ-łym ty-GOD-niu
-в прошлом году|w zeszłym roku|w ZESZ-łym RO-ku
-неделю назад|tydzień temu|TY-dzień TE-mu
-недавно|niedawno|nie-DAW-no
-когда-то, однажды|kiedyś|KIE-dyś
-только что|przed chwilą|przed CHWI-lą
+#columns:Russian|Polish|IPA
+быть|być — był, była, byli|[ˈbɨt͡ɕ] — [ˈbɨw], [ˈbɨwa], [ˈbɨli]
+иметь|mieć — miał, miała, mieli|[ˈmʲɛt͡ɕ] — [ˈmʲaw], [ˈmʲawa], [ˈmʲɛli]
+идти|iść — szedł, szła, szli|[ˈiɕt͡ɕ] — [ˈʂɛtw], [ˈʂwa], [ˈʂli]
+ехать|jechać — jechał, jechała, jechali|[ˈjɛxat͡ɕ] — [ˈjɛxaw], [jɛˈxawa], [jɛˈxali]
+мочь|móc — mógł, mogła, mogli|[ˈmut͡s] — [ˈmukw], [ˈmɔɡwa], [ˈmɔɡli]
+есть (кушать)|jeść — jadł, jadła, jedli|[ˈjɛɕt͡ɕ] — [ˈjatw], [ˈjadwa], [ˈjɛdli]
+взять|wziąć — wziął, wzięła, wzięli|[ˈvʑɔɲt͡ɕ] — [ˈvʑɔw], [ˈvʑɛwa], [ˈvʑɛli]
+хотеть|chcieć — chciał, chciała, chcieli|[ˈxt͡ɕɛt͡ɕ] — [ˈxt͡ɕaw], [ˈxt͡ɕawa], [ˈxt͡ɕɛli]
+видеть|widzieć — widział, widziała, widzieli|[ˈvʲid͡ʑɛt͡ɕ] — [ˈvʲid͡ʑaw], [vʲiˈd͡ʑawa], [vʲiˈd͡ʑɛli]
+знать (что-то)|wiedzieć — wiedział, wiedziała, wiedzieli|[ˈvʲɛd͡ʑɛt͡ɕ] — [ˈvʲɛd͡ʑaw], [vʲɛˈd͡ʑawa], [vʲɛˈd͡ʑɛli]
+сказать|powiedzieć — powiedział, powiedziała, powiedzieli|[pɔˈvʲɛd͡ʑɛt͡ɕ] — [pɔˈvʲɛd͡ʑaw], [pɔvʲɛˈd͡ʑawa], [pɔvʲɛˈd͡ʑɛli]
+прийти|przyjść — przyszedł, przyszła, przyszli|[ˈpʂɨjɕt͡ɕ] — [ˈpʂɨʂɛtw], [ˈpʂɨʂwa], [ˈpʂɨʂli]
+выйти, уйти|wyjść — wyszedł, wyszła, wyszli|[ˈvɨjɕt͡ɕ] — [ˈvɨʂɛtw], [ˈvɨʂwa], [ˈvɨʂli]
+принести|przynieść — przyniósł, przyniosła, przynieśli|[ˈpʂɨɲɛɕt͡ɕ] — [ˈpʂɨɲusw], [pʂɨˈɲɔswa], [pʂɨˈɲɛɕli]
+начать|zacząć — zaczął, zaczęła, zaczęli|[ˈzat͡ʂɔɲt͡ɕ] — [ˈzat͡ʂɔw], [zaˈt͡ʂɛwa], [zaˈt͡ʂɛli]
+закончить|skończyć — skończył, skończyła, skończyli|[ˈskɔɲt͡ʂɨt͡ɕ] — [ˈskɔɲt͡ʂɨw], [skɔɲˈt͡ʂɨwa], [skɔɲˈt͡ʂɨli]
+спать|spać — spał, spała, spali|[ˈspat͡ɕ] — [ˈspaw], [ˈspawa], [ˈspali]
+работать|pracować — pracował, pracowała, pracowali|[praˈt͡sɔvat͡ɕ] — [praˈt͡sɔvaw], [prat͡sɔˈvawa], [prat͡sɔˈvali]
+жить (где-то)|mieszkać — mieszkał, mieszkała, mieszkali|[ˈmʲɛʂkat͡ɕ] — [ˈmʲɛʂkaw], [mʲɛʂˈkawa], [mʲɛʂˈkali]
+учиться|uczyć się — uczył się, uczyła się, uczyli się|[ˈut͡ʂɨt͡ɕ ɕɛ] — [ˈut͡ʂɨw ɕɛ], [uˈt͡ʂɨwa ɕɛ], [uˈt͡ʂɨli ɕɛ]
+купить|kupić — kupił, kupiła, kupili|[ˈkupʲit͡ɕ] — [ˈkupʲiw], [kuˈpʲiwa], [kuˈpʲili]
+сделать|zrobić — zrobił, zrobiła, zrobili|[ˈzrɔbʲit͡ɕ] — [ˈzrɔbʲiw], [zrɔˈbʲiwa], [zrɔˈbʲili]
+написать|napisać — napisał, napisała, napisali|[naˈpʲisat͡ɕ] — [naˈpʲisaw], [napʲiˈsawa], [napʲiˈsali]
+прочитать|przeczytać — przeczytał, przeczytała, przeczytali|[pʂɛˈt͡ʂɨtat͡ɕ] — [pʂɛˈt͡ʂɨtaw], [pʂɛt͡ʂɨˈtawa], [pʂɛt͡ʂɨˈtali]
+встретить|spotkać — spotkał, spotkała, spotkali|[ˈspɔtkat͡ɕ] — [ˈspɔtkaw], [spɔtˈkawa], [spɔtˈkali]
+забыть|zapomnieć — zapomniał, zapomniała, zapomnieli|[zaˈpɔmɲɛt͡ɕ] — [zaˈpɔmɲaw], [zapɔmˈɲawa], [zapɔmˈɲɛli]
+понять|zrozumieć — zrozumiał, zrozumiała, zrozumieli|[zrɔˈzumʲɛt͡ɕ] — [zrɔˈzumʲaw], [zrɔzuˈmʲawa], [zrɔzuˈmʲɛli]
+умереть|umrzeć — umarł, umarła, umarli|[ˈumʐɛt͡ɕ] — [ˈumarw], [uˈmarwa], [uˈmarli]
+сесть|usiąść — usiadł, usiadła, usiedli|[ˈuɕɔ̃ɕt͡ɕ] — [ˈuɕatw], [uˈɕadwa], [uˈɕɛdli]
+вчера|wczoraj|[ˈft͡ʂɔraj]
+позавчера|przedwczoraj|[pʂɛtˈft͡ʂɔraj]
+на прошлой неделе|w zeszłym tygodniu|[v ˈzɛʂwɨm tɨˈɡɔdɲu]
+в прошлом году|w zeszłym roku|[v ˈzɛʂwɨm ˈrɔku]
+неделю назад|tydzień temu|[ˈtɨd͡ʑɛɲ ˈtɛmu]
+недавно|niedawno|[ɲɛˈdavnɔ]
+когда-то, однажды|kiedyś|[ˈkʲɛdɨɕ]
+только что|przed chwilą|[pʂɛt ˈxfʲilɔ̃]

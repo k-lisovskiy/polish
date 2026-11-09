@@ -1,42 +1,42 @@
 #separator:Pipe
-#columns:Russian|Polish|Phonetic
-хлеб|chleb, -a|CHLEB
-сыр|ser, -a|SER
-сахар|cukier, cukru|CU-kier
-сок|sok, -u|SOK
-рис|ryż, -u|RYŻ
-время|czas, -u|CZAS
-вода|woda|WO-da
-кофе|kawa|KA-wa
-чай|herbata|her-BA-ta
-молоко|mleko|MLE-ko
-масло (сливочное)|masło|MA-sło
-мясо|mięso|MIĘ-so
-суп|zupa|ZU-pa
-здоровье|zdrowie|ZDRO-wie
-холодильник|lodówka|lo-DÓW-ka
-список покупок|lista zakupów|LI-sta za-KU-pów
-бутылка|butelka|bu-TEL-ka
-пачка; посылка|paczka|PACZ-ka
-буханка|bochenek, bochenka|bo-CHE-nek
-банка (стеклянная)|słoik|SŁO-ik
-стакан|szklanka|SZKLAN-ka
-кусок|kawałek, kawałka|ka-WA-łek
-килограмм|kilogram|ki-LO-gram
-литр|litr|LITR
-немного|trochę (czego?)|TRO-chę
-много|dużo (czego?)|DU-żo
-мало|mało (czego?)|MA-ło
-слушать (что?)|słuchać (czego?)|SŁU-chać
-искать (что?)|szukać (czego?)|SZU-kać
-нуждаться (в чём?)|potrzebować (czego?)|po-trze-BO-wać
-использовать (что?)|używać (czego?)|u-ŻY-wać
-бояться (чего?)|bać się (czego?)|BAĆ się
-учить (что?)|uczyć się (czego?)|U-czyć się
-желать (кому? чего?)|życzyć (komu? czego?)|ŻY-czyć
-в (куда?), до|do (czego?)|DO
-без|bez (czego?)|BEZ
-для|dla (kogo? czego?)|DLA
-у (кого?)|u (kogo?)|U
-от|od (kogo? czego?)|OD
-из|z (czego?)|Z
+#columns:Russian|Polish|IPA
+хлеб|chleb, -a|[ˈxlɛp]
+сыр|ser, -a|[ˈsɛr]
+сахар|cukier, cukru|[ˈt͡sukʲɛr], [ˈt͡sukru]
+сок|sok, -u|[ˈsɔk]
+рис|ryż, -u|[ˈrɨʂ]
+время|czas, -u|[ˈt͡ʂas]
+вода|woda|[ˈvɔda]
+кофе|kawa|[ˈkava]
+чай|herbata|[xɛrˈbata]
+молоко|mleko|[ˈmlɛkɔ]
+масло (сливочное)|masło|[ˈmaswɔ]
+мясо|mięso|[ˈmʲɛ̃sɔ]
+суп|zupa|[ˈzupa]
+здоровье|zdrowie|[ˈzdrɔvʲɛ]
+холодильник|lodówka|[lɔˈdufka]
+список покупок|lista zakupów|[ˈlista zaˈkupuf]
+бутылка|butelka|[buˈtɛlka]
+пачка; посылка|paczka|[ˈpat͡ʂka]
+буханка|bochenek, bochenka|[bɔˈxɛnɛk], [bɔˈxɛŋka]
+банка (стеклянная)|słoik|[ˈswɔik]
+стакан|szklanka|[ˈʂklaŋka]
+кусок|kawałek, kawałka|[kaˈvawɛk], [kaˈvawka]
+килограмм|kilogram|[kʲiˈlɔɡram]
+литр|litr|[ˈlitr]
+немного|trochę (czego?)|[ˈtrɔxɛ]
+много|dużo (czego?)|[ˈduʐɔ]
+мало|mało (czego?)|[ˈmawɔ]
+слушать (что?)|słuchać (czego?)|[ˈswuxat͡ɕ]
+искать (что?)|szukać (czego?)|[ˈʂukat͡ɕ]
+нуждаться (в чём?)|potrzebować (czego?)|[pɔtʂɛˈbɔvat͡ɕ]
+использовать (что?)|używać (czego?)|[uˈʐɨvat͡ɕ]
+бояться (чего?)|bać się (czego?)|[ˈbat͡ɕ ɕɛ]
+учить (что?)|uczyć się (czego?)|[ˈut͡ʂɨt͡ɕ ɕɛ]
+желать (кому? чего?)|życzyć (komu? czego?)|[ˈʐɨt͡ʂɨt͡ɕ]
+в (куда?), до|do (czego?)|[ˈdɔ]
+без|bez (czego?)|[ˈbɛs]
+для|dla (kogo? czego?)|[ˈdla]
+у (кого?)|u (kogo?)|[ˈu]
+от|od (kogo? czego?)|[ˈɔt]
+из|z (czego?)|[z]

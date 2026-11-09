@@ -1,39 +1,39 @@
 #separator:Pipe
-#columns:Russian|Polish|Phonetic
-студент — студенты|student — studenci|STU-dent — stu-DEN-ci
-поляк — поляки|Polak — Polacy|PO-lak — po-LA-cy
-коллега — коллеги|kolega — koledzy|ko-LE-ga — ko-LE-dzy
-друг — друзья|przyjaciel — przyjaciele|przy-JA-ciel — przy-ja-CIE-le
-человек — люди|człowiek — ludzie|CZŁO-wiek — LU-dzie
-мужчина — мужчины|mężczyzna — mężczyźni|męż-CZYZ-na — męż-CZYŹ-ni
-профессор — профессора|profesor — profesorowie|pro-FE-sor — pro-fe-so-RO-wie
-врач — врачи|lekarz — lekarze|LE-karz — le-KA-rze
-учитель — учителя|nauczyciel — nauczyciele|na-u-CZY-ciel — na-u-czy-CIE-le
-сосед — соседи|sąsiad — sąsiedzi|SĄ-siad — są-SIE-dzi
-господин — господа|pan — panowie|PAN — pa-NO-wie
-сын — сыновья|syn — synowie|SYN — sy-NO-wie
-брат — братья|brat — bracia|BRAT — BRA-cia
-муж — мужья|mąż — mężowie|MĄŻ — mę-ŻO-wie
-отец — отцы|ojciec — ojcowie|OJ-ciec — oj-CO-wie
-парень — парни|chłopak — chłopacy|CHŁO-pak — chło-PA-cy
-немец — немцы|Niemiec — Niemcy|NIE-miec — NIEM-cy
-русский — русские|Rosjanin — Rosjanie|ros-JA-nin — ros-JA-nie
-гость — гости|gość — goście|GOŚĆ — GOŚ-cie
-сотрудник — сотрудники|pracownik — pracownicy|pra-COW-nik — pra-cow-NI-cy
-начальник — начальники|szef — szefowie|SZEF — sze-FO-wie
-турист — туристы|turysta — turyści|tu-RY-sta — tu-RYŚ-ci
-они (есть мужчина)|oni|O-ni
-они (нет мужчин)|one|O-ne
-все (есть мужчина)|wszyscy|WSZY-scy
-некоторые (есть мужчина)|niektórzy|nie-KTÓ-rzy
-два (о мужчинах)|dwaj / dwóch|DWAJ / DWÓCH
-две|dwie|DWIE
-три (о мужчинах)|trzej / trzech|TRZEJ / TRZECH
-пять (о мужчинах)|pięciu|PIĘ-ciu
-шесть (о мужчинах)|sześciu|SZEŚ-ciu
-десять (о мужчинах)|dziesięciu|dzie-SIĘ-ciu
-несколько (о мужчинах)|kilku|KIL-ku
-многие (о мужчинах)|wielu|WIE-lu
-оба / обе|obaj / obie|O-baj / O-bie
-двое детей|dwoje dzieci|DWO-je DZIE-ci
-много людей|dużo ludzi|DU-żo LU-dzi
+#columns:Russian|Polish|IPA
+студент — студенты|student — studenci|[ˈstudɛnt] — [stuˈdɛnt͡ɕi]
+поляк — поляки|Polak — Polacy|[ˈpɔlak] — [pɔˈlat͡sɨ]
+коллега — коллеги|kolega — koledzy|[kɔˈlɛɡa] — [kɔˈlɛd͡zɨ]
+друг — друзья|przyjaciel — przyjaciele|[pʂɨˈjat͡ɕɛl] — [pʂɨjaˈt͡ɕɛlɛ]
+человек — люди|człowiek — ludzie|[ˈt͡ʂwɔvʲɛk] — [ˈlud͡ʑɛ]
+мужчина — мужчины|mężczyzna — mężczyźni|[mɛ̃ʂˈt͡ʂɨzna] — [mɛ̃ʂˈt͡ʂɨʑɲi]
+профессор — профессора|profesor — profesorowie|[prɔˈfɛsɔr] — [prɔfɛsɔˈrɔvʲɛ]
+врач — врачи|lekarz — lekarze|[ˈlɛkaʂ] — [lɛˈkaʐɛ]
+учитель — учителя|nauczyciel — nauczyciele|[nauˈt͡ʂɨt͡ɕɛl] — [naut͡ʂɨˈt͡ɕɛlɛ]
+сосед — соседи|sąsiad — sąsiedzi|[ˈsɔ̃ɕat] — [sɔ̃ˈɕɛd͡ʑi]
+господин — господа|pan — panowie|[ˈpan] — [paˈnɔvʲɛ]
+сын — сыновья|syn — synowie|[ˈsɨn] — [sɨˈnɔvʲɛ]
+брат — братья|brat — bracia|[ˈbrat] — [ˈbrat͡ɕa]
+муж — мужья|mąż — mężowie|[ˈmɔ̃ʂ] — [mɛ̃ˈʐɔvʲɛ]
+отец — отцы|ojciec — ojcowie|[ˈɔjt͡ɕɛt͡s] — [ɔjˈt͡sɔvʲɛ]
+парень — парни|chłopak — chłopacy|[ˈxwɔpak] — [xwɔˈpat͡sɨ]
+немец — немцы|Niemiec — Niemcy|[ˈɲɛmʲɛt͡s] — [ˈɲɛmt͡sɨ]
+русский — русские|Rosjanin — Rosjanie|[rɔsˈjaɲin] — [rɔsˈjaɲɛ]
+гость — гости|gość — goście|[ˈɡɔɕt͡ɕ] — [ˈɡɔɕt͡ɕɛ]
+сотрудник — сотрудники|pracownik — pracownicy|[praˈt͡sɔvɲik] — [prat͡sɔvˈɲit͡sɨ]
+начальник — начальники|szef — szefowie|[ˈʂɛf] — [ʂɛˈfɔvʲɛ]
+турист — туристы|turysta — turyści|[tuˈrɨsta] — [tuˈrɨɕt͡ɕi]
+они (есть мужчина)|oni|[ˈɔɲi]
+они (нет мужчин)|one|[ˈɔnɛ]
+все (есть мужчина)|wszyscy|[ˈfʂɨst͡sɨ]
+некоторые (есть мужчина)|niektórzy|[ɲɛˈktuʐɨ]
+два (о мужчинах)|dwaj / dwóch|[ˈdvaj] / [ˈdvux]
+две|dwie|[ˈdvʲɛ]
+три (о мужчинах)|trzej / trzech|[ˈtʂɛj] / [ˈtʂɛx]
+пять (о мужчинах)|pięciu|[ˈpʲɛɲt͡ɕu]
+шесть (о мужчинах)|sześciu|[ˈʂɛɕt͡ɕu]
+десять (о мужчинах)|dziesięciu|[d͡ʑɛˈɕɛɲt͡ɕu]
+несколько (о мужчинах)|kilku|[ˈkʲilku]
+многие (о мужчинах)|wielu|[ˈvʲɛlu]
+оба / обе|obaj / obie|[ˈɔbaj] / [ˈɔbʲɛ]
+двое детей|dwoje dzieci|[ˈdvɔjɛ ˈd͡ʑɛt͡ɕi]
+много людей|dużo ludzi|[ˈduʐɔ ˈlud͡ʑi]
