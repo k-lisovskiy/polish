@@ -1,41 +1,41 @@
 #separator:Pipe
-#columns:Russian|Polish|IPA
-вставать|wstawać (wstaję)|[ˈfstavat͡ɕ], [ˈfstajɛ]
-просыпаться|budzić się (budzę się)|[ˈbud͡ʑit͡ɕ ɕɛ], [ˈbud͡zɛ ɕɛ]
-умываться|myć się (myję się)|[ˈmɨt͡ɕ ɕɛ], [ˈmɨjɛ ɕɛ]
-одеваться|ubierać się (ubieram się)|[uˈbʲɛrat͡ɕ ɕɛ], [uˈbʲɛram ɕɛ]
-завтрак|śniadanie|[ɕɲaˈdaɲɛ]
-обед|obiad, -u|[ˈɔbʲat]
-ужин|kolacja|[kɔˈlat͡sja]
-есть|jeść (jem, jesz, jedzą)|[ˈjɛɕt͡ɕ] — [ˈjɛm], [ˈjɛʂ], [ˈjɛd͡zɔ̃]
-работать|pracować (pracuję, pracujesz)|[praˈt͡sɔvat͡ɕ] — [praˈt͡sujɛ], [praˈt͡sujɛʂ]
-учиться|uczyć się (uczę się)|[ˈut͡ʂɨt͡ɕ ɕɛ], [ˈut͡ʂɛ ɕɛ]
-ехать на работу|jechać do pracy|[ˈjɛxad͡ʑ dɔ ˈprat͡sɨ]
-возвращаться|wracać (wracam)|[ˈvrat͡sat͡ɕ], [ˈvrat͡sam]
-готовить|gotować (gotuję)|[ɡɔˈtɔvat͡ɕ], [ɡɔˈtujɛ]
-читать|czytać (czytam)|[ˈt͡ʂɨtat͡ɕ], [ˈt͡ʂɨtam]
-смотреть телевизор|oglądać telewizję|[ɔˈɡlɔndat͡ɕ tɛlɛˈvʲizjɛ]
-ложиться спать|kłaść się spać|[ˈkwaɕt͡ɕ ɕɛ ˈspat͡ɕ]
-спать|spać (śpię, śpisz)|[ˈspat͡ɕ] — [ˈɕpʲɛ], [ˈɕpʲiʂ]
-хотеть|chcieć (chcę, chcesz)|[ˈxt͡ɕɛt͡ɕ] — [ˈxt͡sɛ], [ˈxt͡sɛʂ]
-мочь|móc (mogę, możesz)|[ˈmut͡s] — [ˈmɔɡɛ], [ˈmɔʐɛʂ]
-знать (факт)|wiedzieć (wiem, wiesz, wiedzą)|[ˈvʲɛd͡ʑɛt͡ɕ] — [ˈvʲɛm], [ˈvʲɛʂ], [ˈvʲɛd͡zɔ̃]
-во сколько?|o której?|[ɔ ˈkturɛj]
-в семь|o siódmej|[ɔ ˈɕudmɛj]
-в восемь|o ósmej|[ɔ ˈusmɛj]
-в девять|o dziewiątej|[ɔ d͡ʑɛˈvʲɔntɛj]
-утром|rano|[ˈranɔ]
-днём (после полудня)|po południu|[pɔ pɔˈwudɲu]
-вечером|wieczorem|[vʲɛˈt͡ʂɔrɛm]
-ночью|w nocy|[v ˈnɔt͡sɨ]
-всегда|zawsze|[ˈzafʂɛ]
-обычно|zwykle|[ˈzvɨklɛ]
-иногда|czasami|[t͡ʂaˈsamʲi]
-никогда (+ nie)|nigdy|[ˈɲiɡdɨ]
-понедельник|poniedziałek|[pɔɲɛˈd͡ʑawɛk]
-вторник|wtorek|[ˈftɔrɛk]
-среда|środa|[ˈɕrɔda]
-четверг|czwartek|[ˈt͡ʂfartɛk]
-пятница|piątek|[ˈpʲɔntɛk]
-суббота|sobota|[sɔˈbɔta]
-воскресенье|niedziela|[ɲɛˈd͡ʑɛla]
+#columns:Russian|Polish|IPA|Type
+вставать|wstawać (wstaję)|[ˈfstavat͡ɕ], [ˈfstajɛ]|verb-impf
+просыпаться|budzić się (budzę się)|[ˈbud͡ʑit͡ɕ ɕɛ], [ˈbud͡zɛ ɕɛ]|verb-impf
+умываться|myć się (myję się)|[ˈmɨt͡ɕ ɕɛ], [ˈmɨjɛ ɕɛ]|verb-impf
+одеваться|ubierać się (ubieram się)|[uˈbʲɛrat͡ɕ ɕɛ], [uˈbʲɛram ɕɛ]|verb-impf
+завтрак|śniadanie|[ɕɲaˈdaɲɛ]|noun-n
+обед|obiad, -u|[ˈɔbʲat]|noun-m
+ужин|kolacja|[kɔˈlat͡sja]|noun-f
+есть|jeść (jem, jesz, jedzą)|[ˈjɛɕt͡ɕ] — [ˈjɛm], [ˈjɛʂ], [ˈjɛd͡zɔ̃]|verb-impf
+работать|pracować (pracuję, pracujesz)|[praˈt͡sɔvat͡ɕ] — [praˈt͡sujɛ], [praˈt͡sujɛʂ]|verb-impf
+учиться|uczyć się (uczę się)|[ˈut͡ʂɨt͡ɕ ɕɛ], [ˈut͡ʂɛ ɕɛ]|verb-impf
+ехать на работу|jechać do pracy|[ˈjɛxad͡ʑ dɔ ˈprat͡sɨ]|phrase
+возвращаться|wracać (wracam)|[ˈvrat͡sat͡ɕ], [ˈvrat͡sam]|verb-impf
+готовить|gotować (gotuję)|[ɡɔˈtɔvat͡ɕ], [ɡɔˈtujɛ]|verb-impf
+читать|czytać (czytam)|[ˈt͡ʂɨtat͡ɕ], [ˈt͡ʂɨtam]|verb-impf
+смотреть телевизор|oglądać telewizję|[ɔˈɡlɔndat͡ɕ tɛlɛˈvʲizjɛ]|phrase
+ложиться спать|kłaść się spać|[ˈkwaɕt͡ɕ ɕɛ ˈspat͡ɕ]|phrase
+спать|spać (śpię, śpisz)|[ˈspat͡ɕ] — [ˈɕpʲɛ], [ˈɕpʲiʂ]|verb-impf
+хотеть|chcieć (chcę, chcesz)|[ˈxt͡ɕɛt͡ɕ] — [ˈxt͡sɛ], [ˈxt͡sɛʂ]|verb-impf
+мочь|móc (mogę, możesz)|[ˈmut͡s] — [ˈmɔɡɛ], [ˈmɔʐɛʂ]|verb-impf
+знать (факт)|wiedzieć (wiem, wiesz, wiedzą)|[ˈvʲɛd͡ʑɛt͡ɕ] — [ˈvʲɛm], [ˈvʲɛʂ], [ˈvʲɛd͡zɔ̃]|verb-impf
+во сколько?|o której?|[ɔ ˈkturɛj]|phrase
+в семь|o siódmej|[ɔ ˈɕudmɛj]|phrase
+в восемь|o ósmej|[ɔ ˈusmɛj]|phrase
+в девять|o dziewiątej|[ɔ d͡ʑɛˈvʲɔntɛj]|phrase
+утром|rano|[ˈranɔ]|adv
+днём (после полудня)|po południu|[pɔ pɔˈwudɲu]|phrase
+вечером|wieczorem|[vʲɛˈt͡ʂɔrɛm]|adv
+ночью|w nocy|[v ˈnɔt͡sɨ]|phrase
+всегда|zawsze|[ˈzafʂɛ]|adv
+обычно|zwykle|[ˈzvɨklɛ]|adv
+иногда|czasami|[t͡ʂaˈsamʲi]|adv
+никогда (+ nie)|nigdy|[ˈɲiɡdɨ]|adv
+понедельник|poniedziałek|[pɔɲɛˈd͡ʑawɛk]|noun-m
+вторник|wtorek|[ˈftɔrɛk]|noun-m
+среда|środa|[ˈɕrɔda]|noun-f
+четверг|czwartek|[ˈt͡ʂfartɛk]|noun-m
+пятница|piątek|[ˈpʲɔntɛk]|noun-m
+суббота|sobota|[sɔˈbɔta]|noun-f
+воскресенье|niedziela|[ɲɛˈd͡ʑɛla]|noun-f

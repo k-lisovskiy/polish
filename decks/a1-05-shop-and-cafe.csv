@@ -1,42 +1,42 @@
 #separator:Pipe
-#columns:Russian|Polish|IPA
-магазин|sklep, -u|[ˈsklɛp]
-кафе|kawiarnia|[kaˈvʲarɲa]
-ресторан|restauracja|[rɛstawˈrat͡sja]
-счёт|rachunek, rachunku|[raˈxunɛk]
-цена|cena|[ˈt͡sɛna]
-сколько стоит?|ile kosztuje?|[ˈilɛ kɔʂˈtujɛ]
-злотый|złoty, -ego|[ˈzwɔtɨ]
-грош|grosz, -a|[ˈɡrɔʂ]
-мне, пожалуйста…|poproszę…|[pɔˈprɔʂɛ]
-платить картой|płacić kartą|[ˈpwat͡ɕit͡ɕ ˈkartɔ̃]
-наличными|gotówką|[ɡɔˈtufkɔ̃]
-дорогой|drogi|[ˈdrɔɡʲi]
-дешёвый|tani|[ˈtaɲi]
-хлеб|chleb, -a|[ˈxlɛp]
-булочка|bułka|[ˈbuwka]
-сыр|ser, -a|[ˈsɛr]
-масло|masło|[ˈmaswɔ]
-молоко|mleko|[ˈmlɛkɔ]
-яйцо|jajko|[ˈjajkɔ]
-вода|woda|[ˈvɔda]
-газированная / без газа|gazowana / niegazowana|[ɡazɔˈvana] / [ɲɛɡazɔˈvana]
-кофе|kawa|[ˈkava]
-чай|herbata|[xɛrˈbata]
-сок|sok, -u|[ˈsɔk]
-пиво|piwo|[ˈpʲivɔ]
-вино|wino|[ˈvʲinɔ]
-пирог, торт|ciasto|[ˈt͡ɕastɔ]
-сахар|cukier, cukru|[ˈt͡sukʲɛr], [ˈt͡sukru]
-соль|sól, soli|[ˈsul]
-фрукты (не овощи!)|owoce|[ɔˈvɔt͡sɛ]
-овощи|warzywa|[vaˈʐɨva]
-яблоко|jabłko|[ˈjapkɔ]
-картофель|ziemniaki (мн. ч.)|[ʑɛmˈɲakʲi]
-мясо|mięso|[ˈmʲɛ̃sɔ]
-курица|kurczak, -a|[ˈkurt͡ʂak]
-рыба|ryba|[ˈrɨba]
-бутылка|butelka|[buˈtɛlka]
-банка (жестяная)|puszka|[ˈpuʂka]
-полкило|pół kilo|[ˈpuw ˈkʲilɔ]
-что-нибудь ещё?|coś jeszcze?|[ˈt͡sɔɕ ˈjɛʂt͡ʂɛ]
+#columns:Russian|Polish|IPA|Type
+магазин|sklep, -u|[ˈsklɛp]|noun-m
+кафе|kawiarnia|[kaˈvʲarɲa]|noun-f
+ресторан|restauracja|[rɛstawˈrat͡sja]|noun-f
+счёт|rachunek, rachunku|[raˈxunɛk]|noun-m
+цена|cena|[ˈt͡sɛna]|noun-f
+сколько стоит?|ile kosztuje?|[ˈilɛ kɔʂˈtujɛ]|phrase
+злотый|złoty, -ego|[ˈzwɔtɨ]|noun-m
+грош|grosz, -a|[ˈɡrɔʂ]|noun-m
+мне, пожалуйста…|poproszę…|[pɔˈprɔʂɛ]|phrase
+платить картой|płacić kartą|[ˈpwat͡ɕit͡ɕ ˈkartɔ̃]|phrase
+наличными|gotówką|[ɡɔˈtufkɔ̃]|noun-f
+дорогой|drogi|[ˈdrɔɡʲi]|adj
+дешёвый|tani|[ˈtaɲi]|adj
+хлеб|chleb, -a|[ˈxlɛp]|noun-m
+булочка|bułka|[ˈbuwka]|noun-f
+сыр|ser, -a|[ˈsɛr]|noun-m
+масло|masło|[ˈmaswɔ]|noun-n
+молоко|mleko|[ˈmlɛkɔ]|noun-n
+яйцо|jajko|[ˈjajkɔ]|noun-n
+вода|woda|[ˈvɔda]|noun-f
+газированная / без газа|gazowana / niegazowana|[ɡazɔˈvana] / [ɲɛɡazɔˈvana]|adj
+кофе|kawa|[ˈkava]|noun-f
+чай|herbata|[xɛrˈbata]|noun-f
+сок|sok, -u|[ˈsɔk]|noun-m
+пиво|piwo|[ˈpʲivɔ]|noun-n
+вино|wino|[ˈvʲinɔ]|noun-n
+пирог, торт|ciasto|[ˈt͡ɕastɔ]|noun-n
+сахар|cukier, cukru|[ˈt͡sukʲɛr], [ˈt͡sukru]|noun-m
+соль|sól, soli|[ˈsul]|noun-f
+фрукты (не овощи!)|owoce|[ɔˈvɔt͡sɛ]|noun-m
+овощи|warzywa|[vaˈʐɨva]|noun-n
+яблоко|jabłko|[ˈjapkɔ]|noun-n
+картофель|ziemniaki (мн. ч.)|[ʑɛmˈɲakʲi]|noun-m
+мясо|mięso|[ˈmʲɛ̃sɔ]|noun-n
+курица|kurczak, -a|[ˈkurt͡ʂak]|noun-m
+рыба|ryba|[ˈrɨba]|noun-f
+бутылка|butelka|[buˈtɛlka]|noun-f
+банка (жестяная)|puszka|[ˈpuʂka]|noun-f
+полкило|pół kilo|[ˈpuw ˈkʲilɔ]|phrase
+что-нибудь ещё?|coś jeszcze?|[ˈt͡sɔɕ ˈjɛʂt͡ʂɛ]|phrase

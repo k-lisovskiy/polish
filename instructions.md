@@ -11,7 +11,7 @@ Read `intent.md` first. It holds the goal, the learner and the current state.
 | `lessons/<level>/<unit>-<slug>/` | Lesson materials, e.g. `lessons/a1/05-genitive/lesson-1.md` (create as needed) |
 | `progress/` | Placement results, retest results, a session log (`progress/log.md`) |
 | `tools/` | Interactive HTML tools (placement test, drills). Self-contained, no build step. |
-| `decks/` | Anki decks, one file per course-plan unit (`a1-01-introductions.csv` …), 30–40 rows: `Russian|Polish|IPA`, pipe-separated with `#separator:Pipe` and `#columns:` header lines. IPA in square brackets, Warsaw standard, stress marked with ˈ, with voicing assimilation and final devoicing shown ([lɔˈdufka], [f ˈpɔlst͡sɛ]). Masculine nouns show the genitive (chleb, -a); verbs show the forms the unit drills. |
+| `decks/` | Anki decks, one file per course-plan unit (`a1-01-introductions.csv` …), 30–40 rows: `Russian|Polish|IPA|Type`, pipe-separated with `#separator:Pipe` and `#columns:` header lines. IPA in square brackets, Warsaw standard, stress marked with ˈ, with voicing assimilation and final devoicing shown ([lɔˈdufka], [f ˈpɔlst͡sɛ]). Masculine nouns show the genitive (chleb, -a); verbs show the forms the unit drills. Type is one token (noun-m/f/n/mp/pl, verb-impf/pf, adj, adv, num, pron, prep, part, phrase) that the Anki card template uses as a CSS class for the gender colours. Setup is in `decks/README.md`. |
 
 ## Writing lesson materials
 

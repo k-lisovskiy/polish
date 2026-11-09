@@ -1,40 +1,40 @@
 #separator:Pipe
-#columns:Russian|Polish|IPA
-квартира|mieszkanie|[mʲɛʂˈkaɲɛ]
-дом|dom, -u|[ˈdɔm]
-комната (не покой!)|pokój, pokoju|[ˈpɔkuj]
-кухня|kuchnia|[ˈkuxɲa]
-ванная|łazienka|[waˈʑɛŋka]
-спальня|sypialnia|[sɨˈpʲalɲa]
-гостиная|salon, -u|[ˈsalɔn]
-прихожая|przedpokój, przedpokoju|[pʂɛtˈpɔkuj]
-балкон|balkon, -u|[ˈbalkɔn]
-окно|okno|[ˈɔknɔ]
-дверь|drzwi (мн. ч.)|[ˈd͡ʐvʲi]
-стена|ściana|[ˈɕt͡ɕana]
-пол|podłoga|[pɔdˈwɔɡa]
-стол|stół, stołu|[ˈstuw]
-стул (не кресло!)|krzesło|[ˈkʂɛswɔ]
-кровать|łóżko|[ˈwuʂkɔ]
-шкаф|szafa|[ˈʂafa]
-диван|kanapa|[kaˈnapa]
-этаж|piętro|[ˈpʲɛntrɔ]
-лифт|winda|[ˈvʲinda]
-лестница|schody (мн. ч.)|[ˈsxɔdɨ]
-город|miasto|[ˈmʲastɔ]
-улица|ulica|[uˈlit͡sa]
-район|dzielnica|[d͡ʑɛlˈɲit͡sa]
-центр|centrum|[ˈt͡sɛntrum]
-парк|park, -u|[ˈpark]
-церковь, костёл|kościół, kościoła|[ˈkɔɕt͡ɕuw]
-аптека|apteka|[apˈtɛka]
-больница|szpital, -a|[ˈʂpʲital]
-банк|bank, -u|[ˈbaŋk]
-вокзал (не двор!)|dworzec, dworca|[ˈdvɔʐɛt͡s]
-есть / нет (чего?)|jest / nie ma (czego?)|[ˈjɛst] / [ˈɲɛ ma]
-рядом с|obok (czego?)|[ˈɔbɔk]
-над|nad (czym?)|[ˈnat]
-под|pod (czym?)|[ˈpɔt]
-между|między (czym?)|[ˈmʲɛnd͡zɨ]
-за, позади|za (czym?)|[ˈza]
-перед|przed (czym?)|[ˈpʂɛt]
+#columns:Russian|Polish|IPA|Type
+квартира|mieszkanie|[mʲɛʂˈkaɲɛ]|noun-n
+дом|dom, -u|[ˈdɔm]|noun-m
+комната (не покой!)|pokój, pokoju|[ˈpɔkuj]|noun-m
+кухня|kuchnia|[ˈkuxɲa]|noun-f
+ванная|łazienka|[waˈʑɛŋka]|noun-f
+спальня|sypialnia|[sɨˈpʲalɲa]|noun-f
+гостиная|salon, -u|[ˈsalɔn]|noun-m
+прихожая|przedpokój, przedpokoju|[pʂɛtˈpɔkuj]|noun-m
+балкон|balkon, -u|[ˈbalkɔn]|noun-m
+окно|okno|[ˈɔknɔ]|noun-n
+дверь|drzwi (мн. ч.)|[ˈd͡ʐvʲi]|noun-pl
+стена|ściana|[ˈɕt͡ɕana]|noun-f
+пол|podłoga|[pɔdˈwɔɡa]|noun-f
+стол|stół, stołu|[ˈstuw]|noun-m
+стул (не кресло!)|krzesło|[ˈkʂɛswɔ]|noun-n
+кровать|łóżko|[ˈwuʂkɔ]|noun-n
+шкаф|szafa|[ˈʂafa]|noun-f
+диван|kanapa|[kaˈnapa]|noun-f
+этаж|piętro|[ˈpʲɛntrɔ]|noun-n
+лифт|winda|[ˈvʲinda]|noun-f
+лестница|schody (мн. ч.)|[ˈsxɔdɨ]|noun-pl
+город|miasto|[ˈmʲastɔ]|noun-n
+улица|ulica|[uˈlit͡sa]|noun-f
+район|dzielnica|[d͡ʑɛlˈɲit͡sa]|noun-f
+центр|centrum|[ˈt͡sɛntrum]|noun-n
+парк|park, -u|[ˈpark]|noun-m
+церковь, костёл|kościół, kościoła|[ˈkɔɕt͡ɕuw]|noun-m
+аптека|apteka|[apˈtɛka]|noun-f
+больница|szpital, -a|[ˈʂpʲital]|noun-m
+банк|bank, -u|[ˈbaŋk]|noun-m
+вокзал (не двор!)|dworzec, dworca|[ˈdvɔʐɛt͡s]|noun-m
+есть / нет (чего?)|jest / nie ma (czego?)|[ˈjɛst] / [ˈɲɛ ma]|phrase
+рядом с|obok (czego?)|[ˈɔbɔk]|prep
+над|nad (czym?)|[ˈnat]|prep
+под|pod (czym?)|[ˈpɔt]|prep
+между|między (czym?)|[ˈmʲɛnd͡zɨ]|prep
+за, позади|za (czym?)|[ˈza]|prep
+перед|przed (czym?)|[ˈpʂɛt]|prep
