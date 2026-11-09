@@ -11,7 +11,7 @@ Read `intent.md` first. It holds the goal, the learner and the current state.
 | `lessons/<level>/<unit>-<slug>/` | Lesson materials, e.g. `lessons/a1/05-genitive/lesson-1.md` (create as needed) |
 | `progress/` | Placement results, retest results, a session log (`progress/log.md`) |
 | `tools/` | Interactive HTML tools (placement test, drills). Self-contained, no build step. |
-| `decks/` | Anki-importable CSVs: `polish;russian;english;notes;audio-hint` |
+| `decks/` | Anki decks, one file per course-plan unit (`a1-01-introductions.csv` …), 30–40 rows: `Russian|Polish|IPA|Type`, pipe-separated with `#separator:Pipe` and `#columns:` header lines. IPA in square brackets, Warsaw standard, stress marked with ˈ, with voicing assimilation and final devoicing shown ([lɔˈdufka], [f ˈpɔlst͡sɛ]). Masculine nouns show the genitive (chleb, -a); verbs show the forms the unit drills. Type is one token (noun-m/f/n/mp/pl, verb-impf/pf, adj, adv, num, pron, prep, part, phrase) that the Anki card template uses as a CSS class for the gender colours. Setup is in `decks/README.md`. |
 
 ## Writing lesson materials
 
@@ -31,7 +31,7 @@ Read `intent.md` first. It holds the goal, the learner and the current state.
 ## Workflow
 
 1. Before a lesson, read `intent.md`, `lesson-format.md`, the latest `progress/` entry and the relevant unit in the plan.
-2. Generate the lesson in `lessons/`, plus any new deck rows in `decks/`.
+2. Generate the lesson in `lessons/`. Repair lessons use the decks of the A1 units they repair; add rows to a unit deck only for words it is missing. Generate IPA with `tools/pl_ipa.py` from stress-marked syllables (lo-DÓW-ka) and review the output by hand.
 3. After the learner reports results, append them to `progress/log.md`: date, unit, what was hard, errors to recycle.
 4. Recycle errors: put items from the last 3 log entries (including missed drill items) into the next lesson's warm-up.
 5. When the syllabus or the current state changes, update `intent.md` and the plan. When only the lesson format changes, update `lesson-format.md` and leave the plan alone.

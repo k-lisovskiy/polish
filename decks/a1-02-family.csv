@@ -1,0 +1,42 @@
+#separator:Pipe
+#columns:Russian|Polish|IPA|Type
+семья|rodzina|[rɔˈd͡ʑina]|noun-f
+родители|rodzice|[rɔˈd͡ʑit͡sɛ]|noun-mp
+мать|matka|[ˈmatka]|noun-f
+мама|mama|[ˈmama]|noun-f
+отец|ojciec, ojca|[ˈɔjt͡ɕɛt͡s]|noun-mp
+папа|tata|[ˈtata]|noun-mp
+сын|syn, -a|[ˈsɨn]|noun-mp
+дочь|córka|[ˈt͡surka]|noun-f
+брат|brat, -a|[ˈbrat]|noun-mp
+сестра|siostra|[ˈɕɔstra]|noun-f
+муж|mąż, męża|[ˈmɔ̃ʂ]|noun-mp
+жена|żona|[ˈʐɔna]|noun-f
+ребёнок — дети|dziecko — dzieci|[ˈd͡ʑɛt͡skɔ] — [ˈd͡ʑɛt͡ɕi]|noun-n
+бабушка|babcia|[ˈbapt͡ɕa]|noun-f
+дедушка|dziadek, dziadka|[ˈd͡ʑadɛk]|noun-mp
+дядя|wujek, wujka|[ˈvujɛk]|noun-mp
+тётя|ciocia|[ˈt͡ɕɔt͡ɕa]|noun-f
+коллега (м. р.!)|kolega, kolegi|[kɔˈlɛɡa]|noun-mp
+иметь|mieć (mam, masz, ma)|[ˈmʲɛt͡ɕ] — [ˈmam], [ˈmaʂ], [ˈma]|verb-impf
+мне 35 лет|mam trzydzieści pięć lat|[ˈmam tʂɨˈd͡ʑɛɕt͡ɕi ˈpʲɛɲt͡ɕ ˈlat]|phrase
+сколько тебе лет?|ile masz lat?|[ˈilɛ ˈmaʂ ˈlat]|phrase
+мой, моя, моё|mój, moja, moje|[ˈmuj], [ˈmɔja], [ˈmɔjɛ]|pron
+твой, твоя, твоё|twój, twoja, twoje|[ˈtfuj], [ˈtfɔja], [ˈtfɔjɛ]|pron
+ноль|zero|[ˈzɛrɔ]|num
+один, одна, одно|jeden, jedna, jedno|[ˈjɛdɛn], [ˈjɛdna], [ˈjɛdnɔ]|num
+два / две|dwa / dwie|[ˈdva] / [ˈdvʲɛ]|num
+три|trzy|[ˈtʂɨ]|num
+четыре|cztery|[ˈt͡ʂtɛrɨ]|num
+пять|pięć|[ˈpʲɛɲt͡ɕ]|num
+шесть|sześć|[ˈʂɛɕt͡ɕ]|num
+семь|siedem|[ˈɕɛdɛm]|num
+восемь|osiem|[ˈɔɕɛm]|num
+девять|dziewięć|[ˈd͡ʑɛvʲɛɲt͡ɕ]|num
+десять|dziesięć|[ˈd͡ʑɛɕɛɲt͡ɕ]|num
+одиннадцать|jedenaście|[jɛdɛˈnaɕt͡ɕɛ]|num
+двенадцать|dwanaście|[dvaˈnaɕt͡ɕɛ]|num
+двадцать|dwadzieścia|[dvaˈd͡ʑɛɕt͡ɕa]|num
+тридцать|trzydzieści|[tʂɨˈd͡ʑɛɕt͡ɕi]|num
+пятьдесят|pięćdziesiąt|[pʲɛɲˈd͡ʑɛɕɔnt]|num
+сто|sto|[ˈstɔ]|num
