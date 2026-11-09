@@ -7,7 +7,8 @@ Pass the Polish state certificate exam at **B1** (*egzamin certyfikatowy*, see c
 ## Learner
 
 - Native Russian speaker, fluent in English; lives in Warsaw (daily exposure available).
-- Materials must be **dyslexia-friendly**: listen before reading, short sessions, colour-coding, low copying load. See `plan/course-plan.md`, section "Lesson structure for a dyslexic learner".
+- Has dyslexia and dysgraphia. Materials must be **dyslexia-friendly**: listen before reading, colour-coding, low copying load, typing rather than handwriting by default. See `lesson-format.md`.
+- Wants written grammar drills (Golitsynsky-style): they worked well when learning English.
 - Was taught most of A2 before, but retained it poorly, so there are gaps rather than missing levels.
 
 ## Current state (2026-11-09)
@@ -24,7 +25,8 @@ Pass the Polish state certificate exam at **B1** (*egzamin certyfikatowy*, see c
 
 ## Schedule
 
-- 3 lessons a week (planned at 60 min each) plus about 30 min of daily review.
+- 3 lessons a week, 60 min each; each unit takes 2–3 lessons.
+- Anki daily: 15–20 new cards plus reviews (about 20–35 min).
 - Exam readiness estimate: November 2027 – January 2028 at about 6.5 h a week, or August–September 2027 at about 8 h a week.
 - Exam sessions are fixed and registration closes early. Apply for adjusted conditions for dyslexia in advance.
 

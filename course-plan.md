@@ -10,7 +10,7 @@ The course takes a native Russian speaker from A0 to C1 in about 800–900 hours
 2. **Every unit has an "Uwaga, rusycyzm!" box** for false friends, calques and differences in which case a verb takes.
 3. **Spiral grammar.** A form appears first as a fixed phrase, then gets explained, then is used freely.
 4. **Exam task formats from B1 on**, covering all five parts: listening, grammar accuracy, reading, writing, speaking.
-5. **Dyslexia-friendly by default** (see the next section): spoken input comes first, colour-coding stays the same throughout, lessons are short, and every text comes with audio.
+5. **Dyslexia-friendly by default** (details in `lesson-format.md`): spoken input comes first, colour-coding stays the same throughout, lessons are split into short blocks, and every text comes with audio.
 
 ### What is hard for a Russian speaker
 
@@ -30,37 +30,9 @@ The course takes a native Russian speaker from A0 to C1 in about 800–900 hours
 | Short-word order | Where *się, mi, go, by* go in the sentence |
 | False friends | *zakaz, owoce, dworzec, czas/godzina/rok, dynia, krzesło, pytać, zawód, uroda, pokój, sklep* |
 
-## Lesson structure for a dyslexic learner
+## Lesson format
 
-Each unit is split into 3–4 sessions of 25–30 minutes. In every session, sound comes before spelling, and new forms are heard and said before they are read or written. The approach follows structured-literacy methods (multisensory, explicit, cumulative): dyslexia mainly makes decoding and spelling hard, not understanding.
-
-### One session, step by step
-
-1. **Warm-up review (3 min):** 5–8 items from earlier sessions, read aloud from flashcards with audio.
-2. **Listen first (5 min):** a short dialogue (60–120 words at A1–A2), heard twice before any text is shown.
-3. **Read along (5 min):** the same text with audio. Text in chunks of 3–4 lines, with key words in bold.
-4. **New words (5 min):** no more than 8–10 per session. Each has audio, the stress marked with an underline, a picture or Russian gloss, and the word family (*pisać – pisarz – napis*).
-5. **One grammar point (5 min):** a single colour-coded table and one model sentence. No long explanation in prose.
-6. **Practise aloud, then in writing (5 min):** say it, build it from word tiles, then write 3–5 sentences, not 15.
-7. **Real task (2–3 min):** a short role-play or a voice message.
-8. **Exit check:** 3 items, plus the audio review deck for the next day.
-
-### Rules that apply throughout
-
-| Area | Adjustment |
-| --- | --- |
-| Typography | Sans-serif font (Lexend, Verdana or Arial), 12–14 pt, 1.5 line spacing, left-aligned, no italics or underlining for emphasis (bold only), cream or off-white background |
-| Colour code (same colours at every level) | Masculine blue, feminine red, neuter green, masculine-personal purple. Each case also has a fixed colour for its endings. |
-| Ending tables | Ending in bold, stem in plain text: dom**u**. One table per page. |
-| Diacritics | Letters with diacritics shown large in early units. Confusable pairs (ś/ź/ć, ą/ę, ó/o) practised in separate sessions, never together. |
-| Spelling | Taught as patterns with memory aids and word families (*mój – moja* shows why ó, *rz* from *r*: *morze – morski*), not as lists to memorize |
-| Reading load | Every text has audio. Glossary on the same page. Reading tasks are short and visibly finite. |
-| Writing load | No copying out of long texts. Sentence frames and starters. Text-to-speech used for self-checking. |
-| Dictation | Phrase by phrase, never a full paragraph. The learner checks against audio, not only against text. |
-| Review | Spaced repetition with audio (Anki with Polish audio) and frequent cumulative review in small doses |
-| Tests | Mostly oral or recognition-based until B1. Exam-format practice is timed only from the B1 module on. |
-
-**Exam:** ask the exam centre in advance about adjusted conditions for candidates with dyslexia (for example, extra time), and bring documentation. Check the current rules on certyfikatpolski.pl.
+How units are split into lessons, the lesson steps, grammar drills and the dyslexia formatting rules are kept in `lesson-format.md`. That file can change without changing this plan.
 
 ## Recurring strands
 
@@ -70,13 +42,13 @@ Five strands run through every unit from A1 to B2, because they cause the most e
 | --- | --- | --- |
 | Which case each verb takes | *słuchać, szukać, potrzebować, używać, bać się, uczyć się* + genitive; *interesować się, zajmować się, opiekować się* + instrumental; *dziękować, pomagać, ufać* + dative; *czekać na, pytać o, dziękować za* + accusative | 5–8 verbs per unit on colour-coded cards, with a model phrase for each (*słucham muzyki*) |
 | Masculine genitive *-a* vs *-u* | *stołu, domu, zeszytu* vs *komputera, ołówka*; tendencies by meaning (tools and animals tend to take *-a*; abstract nouns and materials *-u*) | Every new masculine noun is learned with its genitive: *dom, -u* |
-| Spelling | *nie* written together or apart (*nie wiem* vs *niedobry*); capitals (*Polak* but *polski, maj*); *ó/u, rz/ż, h/ch*; commas before *że, który, żeby, ale* | Two minutes per session, one pattern at a time |
+| Spelling | *nie* written together or apart (*nie wiem* vs *niedobry*); capitals (*Polak* but *polski, maj*); *ó/u, rz/ż, h/ch*; commas before *że, który, żeby, ale* | A few minutes per lesson, one pattern at a time |
 | Particles (from A2) | *no, przecież, chyba, właśnie, akurat, -że* | Heard in the dialogues, then copied in role-plays |
-| Pronunciation | Stress, nasal vowels, soft consonant series | The listening step of every session |
+| Pronunciation | Stress, nasal vowels, soft consonant series | The listening step of every lesson |
 
 ## Unit 0 and A1 (about 100–120 hours)
 
-**Unit 0, Sounds and spelling (*Wymowa i pisownia*, 4–6 short sessions; longer than usual because of dyslexia).** One group of sounds per session: (1) alphabet and ł; (2) sz/cz/rz/ż/dż; (3) the soft series ś/si, ć/ci, ź/zi, ń/ni; (4) ą/ę; (5) ó/u, h/ch; (6) stress and voicing changes (*chleb* [chlep]). Each session goes hear, say, trace or type, read. Goals: spell your name, read signs, write down an address you hear.
+**Unit 0, Sounds and spelling (*Wymowa i pisownia*, six sound groups; longer than usual because of dyslexia).** One group of sounds at a time: (1) alphabet and ł; (2) sz/cz/rz/ż/dż; (3) the soft series ś/si, ć/ci, ź/zi, ń/ni; (4) ą/ę; (5) ó/u, h/ch; (6) stress and voicing changes (*chleb* [chlep]). Each group goes hear, say, trace or type, read. Goals: spell your name, read signs, write down an address you hear.
 
 | # | Theme | Grammar | Communicative goal |
 | --- | --- | --- | --- |
@@ -127,9 +99,9 @@ Five strands run through every unit from A1 to B2, because they cause the most e
 - Mock tests for each of the five parts, first untimed, then timed.
 - **Writing:** formal letter or complaint, informal message, opinion text. Use memorized templates and sentence frames to reduce spelling load.
 - **Speaking:** monologue on a topic, picture description, role-play. This is the strongest channel for a dyslexic learner, so practise it most.
-- **Grammar accuracy:** focused drills on the recurring strands (verb cases, *-a/-u*, *nie* spelling).
+- **Grammar accuracy:** written drills on the recurring strands (verb cases, *-a/-u*, *nie* spelling).
 - **Reading:** strategies for skimming and finding information in long texts; practise with a reading ruler or line marker.
-- Apply for adjusted exam conditions well before the registration deadline.
+- Apply for adjusted exam conditions for dyslexia (for example, extra time) well before the registration deadline, and bring documentation. Check the current rules on certyfikatpolski.pl.
 
 ## B2 (about 190–210 hours)
 
